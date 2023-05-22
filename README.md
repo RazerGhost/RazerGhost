@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hi. My name is Dimitri, and I'm a Student from The Netherlands.<br>Check out my portfolio at: RazerGhost.nl</h1>
+<h1 align="center">Hi. My name is Dimitri, and I'm a Student from The Netherlands.<br>Check out my portfolio at: <link href="RazerGhost.nl">RazerGhost.nl</h1>
 
 ###
 
