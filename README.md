@@ -13,12 +13,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RazerGhost.RazerGhost&"  />
-</div>
-
-###
-
 <h1 align="center">Hi. My name is Dimitri, and I'm a Student from The Netherlands.<br>Check out my portfolio at: <link href="RazerGhost.nl">RazerGhost.nl</h1>
 
 ###
