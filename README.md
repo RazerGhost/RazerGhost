@@ -18,9 +18,9 @@
 ###
 
 <div align="center">
-  ![RazerGhost's Stats](https://github-readme-stats.vercel.app/api?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![RazerGhost's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazerGhost&theme=dark&hide_border=true)
-  ![RazerGhost's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazerGhost&theme=dark&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200" alt="streak graph"  />
 </div>
 
 ###
