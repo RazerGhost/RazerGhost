@@ -18,9 +18,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RazerGhost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=RazerGhost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2&custom_title=Langs" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RazerGhost&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="200" alt="streak graph"  />
+  ![RazerGhost's Stats](https://github-readme-stats.vercel.app/api?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![RazerGhost's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazerGhost&theme=dark&hide_border=true)
+  ![RazerGhost's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ###
