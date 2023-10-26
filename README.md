@@ -16,12 +16,7 @@
 <h1 align="center">Hi. My name is Dimitri, and I'm a Student from The Netherlands.<br>Check out my portfolio at: <a href="https://RazerGhost.nl">RazerGhost.nl</a></h1>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats-ghosty.vercel.app/api?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazerGhost&theme=dark&hide_border=true" alt="languages graph"  />
-  <img src="https://github-readme-stats-ghosty.vercel.app/api/top-langs/?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="streak graph"  />
-  <a href="https://open.spotify.com/user/IRazerIGhost">
-    <img src="https://spotifystats-ghosty.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats2-three.vercel.app?user=RazerGhost&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Spotify](https://spotifystats-ghosty.vercel.app/api/spotify)](https://open.spotify.com/user/IRazerIGhost)
