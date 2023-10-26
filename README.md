@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/IRazerIGhost">
-  <img src="https://spotifystats-ghosty.vercel.app/api/spotify" alt="Spotify">
+  <img src="https://spotifystats-ghosty.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117" alt="Spotify">
 </a>
 
 </div>
