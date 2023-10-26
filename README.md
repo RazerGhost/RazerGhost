@@ -17,7 +17,7 @@
 <div align="center">
   
 <a href="https://github.com/RazerGhost/github-readme-stats2">
-  <img src="https://github-readme-stats-ghosty.vercel.app/api?username=RazerGhost&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-stats-ghosty.vercel.app/api?username=RazerGhost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits" alt="GitHub stats">
 </a>
 
 <a href="https://github.com/RazerGhost/github-readme-stats2">
