@@ -16,11 +16,11 @@
 <h1 align="center">Hi. My name is Dimitri, and I'm a Student from The Netherlands.<br>Check out my portfolio at: <a href="https://RazerGhost.nl">RazerGhost.nl</a></h1>
 <div align="center">
   
-<a href="https://github.com/RazerGhost/github-readme-stats2">
+<a href="https://github.com/RazerGhost/github-readme-stats">
   <img src="https://github-readme-stats-ghosty.vercel.app/api?username=RazerGhost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits" alt="GitHub stats">
 </a>
 
-<a href="https://github.com/RazerGhost/github-readme-stats2">
+<a href="https://github.com/RazerGhost/github-readme-stats">
   <img src="https://github-readme-stats-ghosty.vercel.app/api/top-langs/?username=RazerGhost&layout=donut&theme=github_dark&hide_border=true" alt="Top Langs">
 </a>
 
