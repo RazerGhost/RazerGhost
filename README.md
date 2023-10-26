@@ -18,17 +18,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-ghosty.vercel.app/api?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazerGhost&theme=dark&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerGhost&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
+  <img src="https://github-readme-stats-ghosty.vercel.app/api/top-langs/?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&layout=compact" height="200" alt="streak graph"  />
   <a href="https://open.spotify.com/user/IRazerIGhost">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sc8l2c989xkpofg2a7ypjnpm4" alt="Spotify recently played"  />
+    <img src="https://spotifystats-ghosty.vercel.app/api/spotify" alt="Spotify" height="175">
   </a>
 </div>
-
-###
