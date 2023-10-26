@@ -16,7 +16,8 @@
 <h1 align="center">Hi. My name is Dimitri, and I'm a Student from The Netherlands.<br>Check out my portfolio at: <a href="https://RazerGhost.nl">RazerGhost.nl</a></h1>
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RazerGhost&theme=github_dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
+[![GitHub stats](https://github-readme-stats-ghosty.vercel.app/api?username=RazerGhost&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/RazerGhost/github-readme-stats2)
+[![Top Langs](https://github-readme-stats-ghosty.vercel.app/api/top-langs/?username=RazerGhost&layout=donut&theme=github_dark&hide_border=true)](https://github.com/RazerGhost/github-readme-stats2)
 [![GitHub Streak](https://github-readme-streak-stats2-three.vercel.app?user=RazerGhost&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![Spotify](https://spotifystats-ghosty.vercel.app/api/spotify)](https://open.spotify.com/user/IRazerIGhost)
+
