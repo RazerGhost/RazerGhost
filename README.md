@@ -24,4 +24,8 @@
   <a href="https://open.spotify.com/user/sc8l2c989xkpofg2a7ypjnpm4?si=5d87f079dfa441f1">
     <img src="https://spotifystats-ghosty.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117" alt="Spotify">
   </a>
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K4DLUYQ)
+
 </div>
+
