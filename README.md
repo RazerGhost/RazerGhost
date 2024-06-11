@@ -28,8 +28,3 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K4DLUYQ)
 
 </div>
-
-```math
-\ce{$\unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://camo.githubusercontent.com/5fa609073b1a0d98200c18dfc695cd9c21695729e1ba3306ccf216a5a84e22ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d3975655768684e6d3968656d6477636d4535626d4a796158707063475a6c6244513262486c6e61485a6c616d70315a48637a64535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f61586b7950664e43516c6d564a65374d666e2f67697068792e676966');]{x0000}$}
-\ce{$\unicode[goombafont; color:red; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
-```
