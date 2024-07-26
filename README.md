@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hi. My name is Dimitri, and I'm a Student from The Netherlands.<br>Check out my portfolio at: <a href="https://RazerGhost.nl">RazerGhost.nl</a></h1>
+<h1 align="center">Hi. My name is Dimitri, and I'm a Fullstack Developer from The Netherlands.<br>Check out my portfolio at: <a href="https://RazerGhost.nl">RazerGhost.nl</a></h1>
 <div align="center">
   <a href="https://github.com/RazerGhost/github-readme-stats">
     <img src="https://github-readme-stats-ghosty.vercel.app/api?username=RazerGhost&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats">
