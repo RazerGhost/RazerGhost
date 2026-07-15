@@ -23,18 +23,6 @@
   </a>
 </p>
 
-## <div align="center">GitHub Stats</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RazerGhost&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RazerGhost&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RazerGhost&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RazerGhost&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RazerGhost&theme=github_dark&utcOffset=1" />
-
-</div>
-
 ## <div align="center">GitHub Streak</div>
 
 <p align="center">
