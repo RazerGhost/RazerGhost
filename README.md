@@ -32,10 +32,10 @@
 ## <div align="center">Connect With Me</div>
 
 <p align="center">
-  <a href="https://razerghost.nl">
+  <a href="https://razerghost.xyz">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="Personal Website" />
   </a>
-  <a href="https://rg-digital.xyz">
+  <a href="https://rg-digital.dev">
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Company Website" />
   </a>
   <a href="https://www.linkedin.com/in/dimitri-eleazar-de-jong/">
@@ -44,7 +44,7 @@
   <a href="https://discord.com/users/425729668482859008">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
   </a>
-  <a href="mailto:hello@rg-digital.xyz">
+  <a href="mailto:contact@rg-digital.dev">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
   </a>
 </p>
