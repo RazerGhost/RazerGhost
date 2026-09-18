@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://rg-digital.dev"><strong>RG-Digital</strong></a> — my web dev studio, built with Astro<br/>
   <a href="https://razerghost.xyz"><strong>razerghost.xyz</strong></a> — personal site, built with SvelteKit<br/>
-  <a href="https://github.com/Ghst-dev"><strong>Ghst-dev</strong></a> — FiveM scripting with Lua & Svelte
+  <a href="https://github.com/Ghst-Interactive"><strong>Ghst-Interactive</strong></a> — FiveM scripting with Lua & Svelte
 </p>
 
 ## <div align="center">Skills & Expertise</div>
