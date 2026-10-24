@@ -9,7 +9,7 @@
 ## <div align="center">About Me</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Software+Engineer;Founder+%40+RG-Digital;Based+in+Almere%2C+Netherlands;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Founder+%40+RG-Digital;Based+in+Almere%2C+Netherlands;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ## <div align="center">Currently Building</div>
